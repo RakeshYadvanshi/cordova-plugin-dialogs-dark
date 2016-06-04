@@ -19,7 +19,7 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-dialogs-dark"
+           id="cordova-plugin-dialogs"
       version="1.2.2-dev">
 
     <name>Notification</name>
